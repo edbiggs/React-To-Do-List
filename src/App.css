@@ -39,3 +39,20 @@ nav {
 }
 
 
+.remove {
+margin-left: 2%;
+word-wrap: normal;
+
+}
+
+.checkbox-div {
+  display: flex;
+  border: 2px solid black;
+  width: 4%;
+  height: auto;
+}
+
+.checkbox {
+  margin-left: 2%;
+
+}

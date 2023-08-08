@@ -4,6 +4,8 @@ import Navbar from './Navbar'
 import ToDoList from './List'
 
 
+
+
 function App() {
 
   return (
@@ -12,7 +14,6 @@ function App() {
         <Navbar />
       </nav>
       <ToDoList/>
-        
 
     </>
   )
